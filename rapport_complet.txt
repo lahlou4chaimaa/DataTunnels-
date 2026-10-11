@@ -1,0 +1,27 @@
+================================================================================
+RAPPORT COMPLET - ANALYSE DES TUNNELS MAROCAINS
+================================================================================
+
+Date: 2025-12-30 07:52:10
+Fichier: C:/Users/lahlo/Desktop/MyData/tunnels_data_100 .csv
+Nombre de tunnels: 100
+Nombre de variables: 8
+
+ANALYSES RÉALISÉES:
+  ✅ Analyse en Composantes Principales (ACP)
+  ✅ Clustering K-Means (K=3, K=4)
+  ✅ Random Forest (prédiction)
+  ✅ Analyse Factorielle des Correspondances (AFC)
+  ✅ Cybersécurité (Isolation Forest & LOF)
+
+FICHIERS GÉNÉRÉS:
+  • acp_results.png
+  • kmeans_k3.png
+  • kmeans_k4.png
+  • rf_importance.png
+  • afc_plan.png
+  • cyber_anomalies.png
+
+================================================================================
+FIN DU RAPPORT
+================================================================================
